@@ -1,3 +1,1 @@
-# Progressive Web Application experiment #
-
-Using (LightHouse)[https://github.com/GoogleChrome/lighthouse]
+# Progressive Web Application experiment using [LightHouse](https://github.com/GoogleChrome/lighthouse) #
